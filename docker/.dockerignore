@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 .env
 Dockerfile
 /characters
@@ -6,3 +7,14 @@ Dockerfile
 /presets
 /prompts
 /training
+=======
+.env
+Dockerfile
+/characters
+/loras
+/models
+/presets
+/prompts
+/softprompts
+/training
+>>>>>>> Stashed changes

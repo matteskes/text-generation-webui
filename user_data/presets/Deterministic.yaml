@@ -1,2 +1,6 @@
+<<<<<<< Updated upstream:user_data/presets/Deterministic.yaml
 do_sample: false
 top_k: 1
+=======
+do_sample: false
+>>>>>>> Stashed changes:presets/Debug-deterministic.yaml
